@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-2 border-b border-gray-400 pb-10">
           <div className="px-20">
             <h1 className="font-bold text-2xl">Stay in the loop</h1>
-            <h3 className="font-light mt-3">Join our mailing list to stay in the loop with our newest feature releases, NFT drops, and tips and tricks for navigating OpenSea.</h3>
+            <h3 className="font-light mt-3">Join our mailing list to stay in the loop with our newest feature releases, NFT drops, and tips and tricks for navigating Allele Group.</h3>
             <div className="flex mt-5">
               <input type="text" className="px-5 py-2 rounded-lg mr-5" placeholder="Your email address" />
               <button className="bg-primary rounded-lg font-bold px-5 py-2">Sign Up</button>

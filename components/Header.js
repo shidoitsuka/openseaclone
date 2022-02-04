@@ -2,7 +2,7 @@ export default function Header() {
   return (
     <div className="fixed flex justify-between w-full px-10 py-3 shadow-lg bg-white">
       <div>
-        <div className="font-bold text-3xl">OpenSea</div>
+        <div className="font-bold text-3xl">Allele Group</div>
       </div>
       <div className="ml-auto mr-5">
         <input className="border-2 border-grey-100 px-5 h-full rounded-md" placeholder="tes" style={{ width: "30vw" }} />
