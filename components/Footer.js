@@ -26,7 +26,7 @@ export default function Footer() {
         <div className="grid grid-cols-3 mt-10 px-20 border-b border-gray-400 pb-10">
           <div>
             <div className="font-bold">Logo</div>
-            <h1 className="font-semibold text-xl mt-5">OpeanSea</h1>
+            <h1 className="font-semibold text-xl mt-5">Allele Group</h1>
             <p className="font-light pr-20 mt-3">The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.</p>
           </div>
           <div className="col-span-2 flex justify-between">
