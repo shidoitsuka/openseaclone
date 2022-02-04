@@ -20,7 +20,7 @@ export default function Home() {
 
             <div>
               <div className="font-semibold text-5xl pr-20">Discover, collect, and sell extraordinary NFTs</div>
-              <div className="w-1/2 mt-1 lg:w-full">OpenSea is the world's first and largest NFT marketplace</div>
+              <div className="w-1/2 mt-1 lg:w-full">OpenSea is the world&apos;s first and largest NFT marketplace</div>
               <div className="mt-5">
                 <button className="bg-primary text-white font-bold rounded-lg px-10 py-2 mr-5">Explore</button>
                 <button className="bg-transparent text-primary font-bold border-2 border-primary rounded-lg px-10 py-2">Create</button>
@@ -57,7 +57,7 @@ export default function Home() {
                   </div>
                   <div className="px-3 mt-5 text-white">
                     <h1 className="font-bold text-xl">WWF x Yam & TedsLittleDream</h1>
-                    <h5 className="font-light mt-2">WWF's genesis drop: best offers accepted after 5pm EST, Feb 7</h5>
+                    <h5 className="font-light mt-2">WWF&apos;s genesis drop: best offers accepted after 5pm EST, Feb 7</h5>
                     <button className="rounded-lg border-2 border-bg-gray-100 px-2 my-5">Live</button>
                   </div>
                   
