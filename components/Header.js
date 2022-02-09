@@ -4,10 +4,10 @@ export default function Header() {
       <div>
         <div className="font-bold text-3xl">Allele Group</div>
       </div>
-      <div className="ml-auto mr-5">
+      <div className="hidden ml-auto mr-5 md:block">
         <input className="border-2 border-grey-100 px-5 h-full rounded-md" placeholder="tes" style={{ width: "30vw" }} />
       </div>
-      <div className="flex mr-auto my-auto">
+      <div className="flex my-auto md:mr-auto">
         <div className="font-semibold text-gray-600 mr-4">Explore</div>
         <div className="font-semibold text-gray-600 mr-4">Stats</div>
         <div className="font-semibold text-gray-600 mr-4">Resources</div>
